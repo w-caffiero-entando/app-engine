@@ -196,6 +196,7 @@
         <netty.version>4.1.122.Final</netty.version>
         <commons-fileupload.version>1.6.0</commons-fileupload.version>
         <solr-solrj.version>8.11.4</solr-solrj.version>
+        <postgres.driver.version>42.7.3</postgres.driver.version>
         <!--
         <spring-hateoas.version>2.5.1</spring-hateoas.version>
         -->
